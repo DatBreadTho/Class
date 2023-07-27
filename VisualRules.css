@@ -1,0 +1,32 @@
+p{
+    font-weight: bold;
+    color:bisque;
+    font-size: 200%;
+}
+h1,h2{
+    color:brown;
+}
+a:hover{
+    color:darkgreen;
+}
+.example{
+    color:cyan;
+}
+h1{
+    font-family: 'Courier New';
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    color:crimson;
+    background-color: blue;
+    color: green !important;
+    color: brown;
+}
+.overlay{
+    opacity: 1;
+}
+
+body{
+    background-image: url('https://images4.alphacoders.com/129/thumbbig-1293883.webp');
+    background-repeat: no-repeat;
+}

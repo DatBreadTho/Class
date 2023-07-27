@@ -1,0 +1,14 @@
+p{
+    font-weight: bold;
+    color:bisque;
+    font-size: 200%;
+}
+h1,h2{
+    color:brown;
+}
+a:hover{
+    color:darkgreen;
+}
+.example{
+    color:cyan;
+}

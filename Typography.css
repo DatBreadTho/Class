@@ -1,0 +1,13 @@
+h1{
+    font-family: monospace;
+    word-spacing: 34px;
+    letter-spacing: 4px;
+    text-align: center;
+}
+p{
+    font-weight: normal;
+}
+#para2{
+    font-style: italic;
+    font-size: 4vw;
+}
